@@ -1,0 +1,13 @@
+healthcare-workflow-agent/
+│
+├── .github/
+│   └── workflows/
+│       └── healthcare-agent.yml
+│
+├── prompts/
+│   └── healthcare_prompt.md
+│
+├── scripts/
+│   └── healthcare_agent.py
+│
+└── README.md
